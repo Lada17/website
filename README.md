@@ -10,3 +10,6 @@ ___
 This is a code block
 in Markdown language
 ```
+___
+
+For more information on Git see the [**Official Git documentation**](https://git-scm.com/).
