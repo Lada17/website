@@ -17,4 +17,4 @@ For more information on Git see the [**Official Git documentation**](https://git
 Other resources:
 * [**Pro Git**](https://git-scm.com/book/en/v2) by by Scott Chacon and Ben Straub
 * [**Git Path at Code School**](https://www.codeschool.com/learn/git)
-* [**Git tutorial**]('https://www.atlassian.com/git/tutorials') by Atlassian
+* [**Git tutorial**](https://www.atlassian.com/git/tutorials) by Atlassian
