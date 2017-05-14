@@ -13,3 +13,6 @@ in Markdown language
 ___
 
 For more information on Git see the [**Official Git documentation**](https://git-scm.com/).
+
+Other resources:
+* [**Pro Git**](https://git-scm.com/book/en/v2) by by Scott Chacon and Ben Straub
